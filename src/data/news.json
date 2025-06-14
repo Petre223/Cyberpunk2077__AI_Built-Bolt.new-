@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Gaming Industry Reaches New Heights in 2024",
+    "summary": "The gaming industry has seen unprecedented growth this year with innovative titles and breakthrough technologies.",
+    "image": "https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "date": "2024-01-15",
+    "category": "Industry",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 2,
+    "title": "Virtual Reality Gaming: The Next Frontier",
+    "summary": "VR technology is revolutionizing how we experience games, offering immersive worlds like never before.",
+    "image": "https://images.pexels.com/photos/194096/pexels-photo-194096.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "date": "2024-01-12",
+    "category": "Technology",
+    "readTime": "7 min read"
+  },
+  {
+    "id": 3,
+    "title": "Esports Championships Break Viewership Records",
+    "summary": "Professional gaming continues to grow with record-breaking audience numbers and prize pools.",
+    "image": "https://images.pexels.com/photos/163064/play-stone-network-networked-interactive-163064.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "date": "2024-01-10",
+    "category": "Esports",
+    "readTime": "4 min read"
+  }
+]
